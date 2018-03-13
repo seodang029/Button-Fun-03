@@ -47,12 +47,11 @@
                     </view>
                     <connections>
                         <outlet property="lbl" destination="aSA-GC-1Ld" id="Y1p-HO-etv"/>
-                        <outlet property="lbl2" destination="aSA-GC-1Ld" id="Qtv-EC-BTt"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="117.59999999999999" y="118.29085457271366"/>
+            <point key="canvasLocation" x="34" y="116"/>
         </scene>
     </scenes>
 </document>
